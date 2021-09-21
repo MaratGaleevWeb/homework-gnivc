@@ -1,0 +1,24 @@
+.conjugation {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.conjugation__title {
+    text-align: center;
+}
+.conjugation__form {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.conjugation__input {
+    height: 25px;
+    border-radius: 10px;
+    outline: none;
+}
+.conjugation__button {
+    border-radius: 10px;
+    color: #fff;
+    background: rgb(0, 0, 255);
+}
